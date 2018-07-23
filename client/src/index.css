@@ -13,7 +13,17 @@ header {
   align-items: center;
 }
 
+header a {
+  color: #fff;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
 header span:last-child {
   cursor: pointer;
   margin-left: 10px;
+}
+
+main {
+  padding: 25px;
 }
